@@ -1,5 +1,7 @@
 # centos-6-vault-image
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/scorpio2002/centos-6-vault-image)](https://hub.docker.com/r/scorpio2002/centos-6-vault-image/tags?page=1&ordering=last_updated)
+
 Because of CentOS 6 End of life mirrorlist is not accessible from centos image, I've created new image based on `centos:6.10`
 with changed baseurl to http://vault.centos.org, to fix this issue.
 
